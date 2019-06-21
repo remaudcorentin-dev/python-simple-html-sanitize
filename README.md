@@ -4,7 +4,7 @@
 Will only keep the text and 'u', 'b', 'i' & 'br' tags into an html string.
 
 ### Installation :
-`pip install python-simple-html-sanitizer`  
+`pip install python-simple-html-sanitize`  
 
 ### Requirements :
 `python >= 3.4`  
