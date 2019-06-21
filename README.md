@@ -1,4 +1,4 @@
-# python-simple-html-sanitizer
+# python-simple-html-sanitize
 ##### v0.0.1
 
 Will only keep the text and 'u', 'b', 'i' & 'br' tags into an html string.
